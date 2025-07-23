@@ -34,7 +34,7 @@ Analyzes the impact of diversification on portfolio risk using historical asset 
 
 ---
 
-They are inspired from the following articles:
+Inspired from the following articles:
 
 https://theaiquant.medium.com/achieving-financial-excellence-portfolio-optimization-in-python-with-mean-variance-and-5525175800b4
 http://www.quantandfinancial.com/2013/07/mean-variance-portfolio-optimization.html
